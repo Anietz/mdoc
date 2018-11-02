@@ -134,7 +134,7 @@
                <div class="row">
                   <div class="col-md-4">
                       <div class="profile-section pull-left" style="width: 354px;">
-                         <div class="pull-left  circle" style="padding: 14px;">
+                         <div class="pull-left  circle" style="padding:20px;">
                            <img src="./../assets/img/doctor4.png"> 
                         </div>
                         <div class="second" style="width: 55%;">
@@ -337,6 +337,11 @@ li {
     margin-top: 14px;
     text-align: left;
 }
+.profile-section .circle
+{
+      width: 50px;
+    height: 50px;
+}
 
 .clear{
   clear:both
@@ -424,8 +429,8 @@ li {
 }
 
 #fourth-section .circle{
-  width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
 }  
 
 #footer{
