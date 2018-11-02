@@ -433,6 +433,12 @@ li {
     height: 100px;
 }  
 
+#fourth-section .circle img{
+    width: 50px;
+    height: 50px;
+}  
+
+
 #footer{
   background-image: url('./../assets/img/footer.png');
         background-repeat: no-repeat;
